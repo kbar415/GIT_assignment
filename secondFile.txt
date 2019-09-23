@@ -1,4 +1,5 @@
 This is the initial contents
 of the second file that comprises
 our most excellent project.
-this is userB adding a 4th line
+this is userB adding a 4th line. this is also userA adding a new line 4
+
